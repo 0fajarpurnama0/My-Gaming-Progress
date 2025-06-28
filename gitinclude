@@ -1,2 +1,7 @@
 git add gitinclude .gitignore
-git add duckstation-linux/config/duckstation/memcards EPSXE1.7-windows/memcards EPSXE1.8-windows/memcards ePSXe205-windows/memcards PSXeven-windows/memcards PCSX21.6.0-windows/memcards pcsxr-linux/memcards ppsspp-windows/memstick/PSP/SAVEDATA ppssppgold-windows/memstick/PSP/SAVEDATA
+
+git add duckstation-linux/config/duckstation/memcards duckstation-windows/memcards EPSXE1.7-windows/memcards EPSXE1.8-windows/memcards ePSXe205-windows/memcards PSXeven-windows/memcards pcsxr-linux/memcards PCSX21.6.0-windows/memcards ppsspp-windows/memstick/PSP/SAVEDATA ppssppgold-windows/memstick/PSP/SAVEDATA
+
+git add duckstation-linux/config/duckstation/savestates duckstation-windows/savestates EPSXE1.8-windows/sstates ePSXe205-windows/sstates PSXeven-windows/states pcsxr-linux/sstates ppssppgold-windows/memstick/PSP/PPSSPP_STATE
+
+#git add PCSX21.6.0-windows/sstates EPSXE1.7-windows/sstates ppsspp-windows/memstick/PSP/PPSSPP_STATE
