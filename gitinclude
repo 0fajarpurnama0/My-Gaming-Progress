@@ -4,4 +4,6 @@ git add duckstation-linux/config/duckstation/memcards duckstation-windows/memcar
 
 git add duckstation-linux/config/duckstation/savestates duckstation-windows/savestates EPSXE1.8-windows/sstates ePSXe205-windows/sstates PSXeven-windows/states pcsxr-linux/sstates ppssppgold-windows/memstick/PSP/PPSSPP_STATE
 
-#git add PCSX21.6.0-windows/sstates EPSXE1.7-windows/sstates ppsspp-windows/memstick/PSP/PPSSPP_STATE
+git add PCSX21.6.0-windows/sstates EPSXE1.7-windows/sstates 
+
+#git add ppsspp-windows/memstick/PSP/PPSSPP_STATE
